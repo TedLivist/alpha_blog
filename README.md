@@ -1,24 +1,7 @@
-# README
+### ALPHA BLOG
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##### This application is the outcome of following a Ruby-on-Rails course
 
-Things you may want to cover:
+###### This is intended as a blog for users
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###### Regular updates will be made to the repo as more features are added
